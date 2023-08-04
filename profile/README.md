@@ -2,6 +2,9 @@
 
 ![Horizontal banner presenting the plugin, the image is from the official wordpress.org repository.](https://ps.w.org/live-weather-station/assets/banner-772x250.jpg?rev=1895349)
 
+# [-> Link to the official plugin repository on WordPress.org !](https://wordpress.org/plugins/live-weather-station/)
+
+
 Weather Station is a plugin that allows you to display, on your WordPress site, meteorological data from weather stations you have access to. It provides full support [for many models of weather stations and for free or paid services…](https://weather.station.software/handbook/technical-specifications/)
 
 Whether you own a weather station or not, you can enjoy the power of Weather Station plugin!
